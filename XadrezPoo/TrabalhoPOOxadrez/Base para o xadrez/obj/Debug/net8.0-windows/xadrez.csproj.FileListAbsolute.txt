@@ -1,0 +1,129 @@
+D:\Users\3425598\Documents\xadrez\bin\Debug\net8.0-windows\xadrez.exe
+D:\Users\3425598\Documents\xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+D:\Users\3425598\Documents\xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+D:\Users\3425598\Documents\xadrez\bin\Debug\net8.0-windows\xadrez.dll
+D:\Users\3425598\Documents\xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.dll
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+D:\Users\3425598\Documents\xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+C:\Users\diego\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.exe
+C:\Users\diego\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+C:\Users\diego\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+C:\Users\diego\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.dll
+C:\Users\diego\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.dll
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+C:\Users\diego\Downloads\xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+D:\Users\3425598\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.exe
+D:\Users\3425598\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+D:\Users\3425598\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+D:\Users\3425598\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.dll
+D:\Users\3425598\Downloads\xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.dll
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+D:\Users\3425598\Downloads\xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.dll
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+D:\Users\20231170150021\Downloads\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.exe
+D:\Users\20231170150021\Downloads\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+D:\Users\20231170150021\Downloads\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+D:\Users\20231170150021\Downloads\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.dll
+D:\Users\20231170150021\Downloads\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+D:\Users\20231170150021\Downloads\Base para o xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.exe
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.dll
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.sourcelink.json
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.dll
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+D:\Users\20231170150021\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.exe
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.dll
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.sourcelink.json
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.dll
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+C:\Users\55849\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.exe
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.dll
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.sourcelink.json
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.dll
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+C:\Users\20231170150058\Documents\GitHub\Trabalho-de-verdade-de-poo\Base para o xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Trabalho-de-verdade-de-poo-main\Trabalho-de-verdade-de-poo-main\Base para o xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\bin\Debug\net8.0-windows\xadrez.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\refint\xadrez.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\xadrez.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\TrabalhoPOOxadrez - Copia\TrabalhoPOOxadrez\Base para o xadrez\obj\Debug\net8.0-windows\ref\xadrez.dll
